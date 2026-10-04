@@ -1,0 +1,8 @@
+Third-Party Notices
+===================
+
+This package does not bundle external third-party proprietary assets or libraries.
+
+1. System Architecture:
+   - Pure C# mathematics and data structures without external dependencies.
+   - Built for Unity with complete 0-GC guarantees.

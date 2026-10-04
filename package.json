@@ -1,0 +1,26 @@
+{
+  "name": "com.cwcbb.cwcstatsystem",
+  "version": "1.0.0",
+  "displayName": "CwcStatSystem - High-Performance RPG Stat & Attribute System",
+  "description": "A high-performance, zero-allocation RPG stat and modifier calculation system for Unity. Features PoE-style multi-tier multiplier formulas (Flat, Increased, More, Override), native interval range algebra, dual-channel synergy stat scaling, lazy dirty-flag baking, and strongly-typed code generation.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "stats",
+    "attribute",
+    "rpg",
+    "combat",
+    "modifier",
+    "formula",
+    "path-of-exile",
+    "calculator",
+    "zero-gc"
+  ],
+  "author": {
+    "name": "Cwcbb",
+    "url": "https://github.com/CwcbbChao"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "samples": [],
+  "dependencies": {}
+}
